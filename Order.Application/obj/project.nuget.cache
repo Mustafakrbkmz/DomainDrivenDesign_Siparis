@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+hpBXLB0lOG+SDwcODcptVha5xOHsArOBxsECMu/RvZDHw7bM4rk1pcaJKHliXukYKfAjX9VZo1+lXMVc8YRUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MK\\Source\\Repos\\Mustafakrbkmz\\DomainDrivenDesign_Siparis\\Order.Application\\Order.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MK\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
